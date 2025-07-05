@@ -1,1 +1,3 @@
-# Text-Generation
+![Screenshot (35)](https://github.com/user-attachments/assets/cf3181d8-2046-471e-8650-e76a7af5e79d)
+![Screenshot (36)](https://github.com/user-attachments/assets/01f0e9a3-19e3-41b1-b2a6-f0976a2c11d5)
+Image generation with pre-trained models involves using deep learning models—such as Stable Diffusion, DALLE, or GANs—that have been trained on large datasets to create realistic or artistic images from text prompts or other images. These models understand visual patterns and semantics, allowing users to input a short description (prompt) and generate high-quality images without needing to train from scratch. Pre-trained models save time, require less computing power, and are widely used in art, design, and creative content generation.
